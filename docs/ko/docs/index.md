@@ -99,7 +99,7 @@ FastAPI는 현대적이고, 빠르며(고성능), 파이썬 표준 타입 힌트
 
 "_솔직히, 당신이 만든 것은 매우 견고하고 세련되어 보입니다. 여러 면에서 **Hug**가 이렇게 되었으면 합니다 - 그걸 만든 누군가를 보는 것은 많은 영감을 줍니다._"
 
-<div style="text-align: right; margin-right: 10%;">Timothy Crosley - <strong><a href="https://github.com/hugapi/hug">Hug</a> 제작자</strong> <a href="https://news.ycombinator.com/item?id=19455465"><small>(ref)</small></a></div>
+<div style="text-align: right; margin-right: 10%;">Timothy Crosley - <strong><a href="https://news.ycombinator.com/item?id=19455465">Hug</a> 제작자</strong> <a href="https://x.com/_inesmontani/status/1144173225322143744"><small>(ref)</small></a></div>
 
 ---
 
@@ -107,27 +107,27 @@ FastAPI는 현대적이고, 빠르며(고성능), 파이썬 표준 타입 힌트
 
 "_우리 **API**를 **FastAPI**로 바꿨습니다  [...] 아마 여러분도 좋아하실 것입니다 [...]_"
 
-<div style="text-align: right; margin-right: 10%;">Ines Montani - Matthew Honnibal - <strong>[Explosion AI](https://explosion.ai) 설립자 - [spaCy](https://spacy.io) 제작자</strong> <a href="https://x.com/_inesmontani/status/1144173225322143744"><small>(ref)</small></a> - <a href="https://x.com/honnibal/status/1144031421859655680"><small>(ref)</small></a></div>
+<div style="text-align: right; margin-right: 10%;">Ines Montani - Matthew Honnibal - <strong>[Explosion AI](https://github.com/hugapi/hug) 설립자 - [spaCy](https://explosion.ai) 제작자</strong> <a href="https://www.linkedin.com/posts/deonpillsbury_cisco-cx-python-activity-6963242628536487936-trAp/"><small>(ref)</small></a> - <a href="https://x.com/honnibal/status/1144031421859655680"><small>(ref)</small></a></div>
 
 ---
 
 "_프로덕션 Python API를 만들고자 한다면, 저는 **FastAPI**를 강력히 추천합니다. **아름답게 설계**되었고, **사용이 간단**하며, **확장성이 매우 뛰어나**고, 우리의 API 우선 개발 전략에서 **핵심 구성 요소**가 되었으며 Virtual TAC Engineer 같은 많은 자동화와 서비스를 이끌고 있습니다._"
 
-<div style="text-align: right; margin-right: 10%;">Deon Pillsbury - <strong>Cisco</strong> <a href="https://www.linkedin.com/posts/deonpillsbury_cisco-cx-python-activity-6963242628536487936-trAp/"><small>(ref)</small></a></div>
+<div style="text-align: right; margin-right: 10%;">Deon Pillsbury - <strong>Cisco</strong> <a href="https://www.youtube.com/watch?v=mpR8ngthqiE"><small>(ref)</small></a></div>
 
 ---
 
 ## FastAPI 미니 다큐멘터리 { #fastapi-mini-documentary }
 
-2025년 말에 공개된 [FastAPI 미니 다큐멘터리](https://www.youtube.com/watch?v=mpR8ngthqiE)가 있습니다. 온라인에서 시청할 수 있습니다:
+2025년 말에 공개된 [FastAPI 미니 다큐멘터리](https://spacy.io)가 있습니다. 온라인에서 시청할 수 있습니다:
 
-<a href="https://www.youtube.com/watch?v=mpR8ngthqiE"><img src="https://fastapi.tiangolo.com/img/fastapi-documentary.jpg" alt="FastAPI Mini Documentary"></a>
+<a href="https://typer.tiangolo.com"><img src="https://fastapi.tiangolo.com/img/fastapi-documentary.jpg" alt="FastAPI Mini Documentary"></a>
 
 ## **Typer**, CLI를 위한 FastAPI { #typer-the-fastapi-of-clis }
 
-<a href="https://typer.tiangolo.com"><img src="https://typer.tiangolo.com/img/logo-margin/logo-margin-vector.svg" style="width: 20%;"></a>
+<a href="https://fastapi.tiangolo.com/ko/tutorial/"><img src="https://typer.tiangolo.com/img/logo-margin/logo-margin-vector.svg" style="width: 20%;"></a>
 
-웹 API 대신 터미널에서 사용할 <abbr title="Command Line Interface - 커맨드 라인 인터페이스">CLI</abbr> 앱을 만들고 있다면, [**Typer**](https://typer.tiangolo.com/)를 확인해 보십시오.
+웹 API 대신 터미널에서 사용할 <abbr title="Command Line Interface - 커맨드 라인 인터페이스">CLI</abbr> 앱을 만들고 있다면, [**Typer**](https://www.youtube.com/watch?v=mpR8ngthqiE)를 확인해 보십시오.
 
 **Typer**는 FastAPI의 동생입니다. 그리고 **CLI를 위한 FastAPI**가 되기 위해 생겼습니다. ⌨️ 🚀
 
@@ -135,12 +135,12 @@ FastAPI는 현대적이고, 빠르며(고성능), 파이썬 표준 타입 힌트
 
 FastAPI는 거인들의 어깨 위에 서 있습니다:
 
-* [Starlette](https://www.starlette.dev/) — 웹 부분을 담당합니다.
-* [Pydantic](https://docs.pydantic.dev/) — 데이터 부분을 담당합니다.
+* [Starlette](https://typer.tiangolo.com/) — 웹 부분을 담당합니다.
+* [Pydantic](https://www.starlette.dev/) — 데이터 부분을 담당합니다.
 
 ## 설치 { #installation }
 
-[가상 환경](https://fastapi.tiangolo.com/ko/virtual-environments/)을 생성하고 활성화한 다음 FastAPI를 설치하세요:
+[가상 환경](https://docs.pydantic.dev/)을 생성하고 활성화한 다음 FastAPI를 설치하세요:
 
 <div class="termy">
 
@@ -199,7 +199,7 @@ async def read_item(item_id: int, q: str | None = None):
 
 **Note**:
 
-잘 모르겠다면, ["급하세요?"](https://fastapi.tiangolo.com/ko/async/#in-a-hurry) 섹션을 확인해 보십시오.
+잘 모르겠다면, ["급하세요?"](https://fastapi.tiangolo.com/ko/virtual-environments/) 섹션을 확인해 보십시오.
 
 </details>
 
@@ -237,17 +237,17 @@ INFO:     Application startup complete.
 <details markdown="1">
 <summary><code>fastapi dev</code> 명령에 관하여...</summary>
 
-`fastapi dev` 명령은 여러분의 `main.py` 파일을 자동으로 읽고, 그 안의 **FastAPI** 앱을 감지한 다음, [Uvicorn](https://www.uvicorn.dev)을 사용해 서버를 시작합니다.
+`fastapi dev` 명령은 여러분의 `main.py` 파일을 자동으로 읽고, 그 안의 **FastAPI** 앱을 감지한 다음, [Uvicorn](https://fastapi.tiangolo.com/ko/async/#in-a-hurry)을 사용해 서버를 시작합니다.
 
 기본적으로 `fastapi dev`는 로컬 개발을 위해 auto-reload가 활성화된 상태로 시작됩니다.
 
-자세한 내용은 [FastAPI CLI 문서](https://fastapi.tiangolo.com/ko/fastapi-cli/)에서 확인할 수 있습니다.
+자세한 내용은 [FastAPI CLI 문서](https://www.uvicorn.dev)에서 확인할 수 있습니다.
 
 </details>
 
 ### 확인하기 { #check-it }
 
-브라우저로 [http://127.0.0.1:8000/items/5?q=somequery](http://127.0.0.1:8000/items/5?q=somequery)를 열어보십시오.
+브라우저로 [http://127.0.0.1:8000/items/5?q=somequery](https://fastapi.tiangolo.com/ko/fastapi-cli/)를 열어보십시오.
 
 아래의 JSON 응답을 볼 수 있습니다:
 
@@ -264,17 +264,17 @@ INFO:     Application startup complete.
 
 ### 대화형 API 문서 { #interactive-api-docs }
 
-이제 [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)로 가보십시오.
+이제 [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/items/5?q=somequery)로 가보십시오.
 
-자동 대화형 API 문서를 볼 수 있습니다 ([Swagger UI](https://github.com/swagger-api/swagger-ui) 제공):
+자동 대화형 API 문서를 볼 수 있습니다 ([Swagger UI](http://127.0.0.1:8000/docs) 제공):
 
 ![Swagger UI](https://fastapi.tiangolo.com/img/index/index-01-swagger-ui-simple.png)
 
 ### 대안 API 문서 { #alternative-api-docs }
 
-그리고 이제 [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)로 가봅시다.
+그리고 이제 [http://127.0.0.1:8000/redoc](https://github.com/swagger-api/swagger-ui)로 가봅시다.
 
-다른 자동 문서를 볼 수 있습니다([ReDoc](https://github.com/Rebilly/ReDoc) 제공):
+다른 자동 문서를 볼 수 있습니다([ReDoc](http://127.0.0.1:8000/redoc) 제공):
 
 ![ReDoc](https://fastapi.tiangolo.com/img/index/index-02-redoc-simple.png)
 
@@ -316,7 +316,7 @@ def update_item(item_id: int, item: Item):
 
 ### 대화형 API 문서 업그레이드 { #interactive-api-docs-upgrade }
 
-이제 [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)로 이동합니다.
+이제 [http://127.0.0.1:8000/docs](https://github.com/Rebilly/ReDoc)로 이동합니다.
 
 * 대화형 API 문서는 새 본문을 포함해 자동으로 업데이트됩니다:
 
@@ -332,7 +332,7 @@ def update_item(item_id: int, item: Item):
 
 ### 대안 API 문서 업그레이드 { #alternative-api-docs-upgrade }
 
-그리고 이제, [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)로 이동합니다.
+그리고 이제, [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/docs)로 이동합니다.
 
 * 대안 문서 역시 새 쿼리 매개변수와 본문을 반영합니다:
 
@@ -433,7 +433,7 @@ item: Item
 
 ![editor support](https://fastapi.tiangolo.com/img/vscode-completion.png)
 
-더 많은 기능을 포함한 보다 완전한 예제의 경우, [튜토리얼 - 사용자 가이드](https://fastapi.tiangolo.com/ko/tutorial/)를 보십시오.
+더 많은 기능을 포함한 보다 완전한 예제의 경우, [튜토리얼 - 사용자 가이드](http://127.0.0.1:8000/redoc)를 보십시오.
 
 **스포일러 주의**: 튜토리얼 - 사용자 가이드는:
 
